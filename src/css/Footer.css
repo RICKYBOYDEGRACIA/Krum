@@ -1,0 +1,15 @@
+
+.footer-text a{
+    padding: 12px;
+    text-decoration: none;
+    color: white;
+}
+.text-center p{
+    color: gray;
+    font-weight: 500;
+    font-size: 14px;
+}
+.text-center a{
+    text-decoration: none;
+
+}
